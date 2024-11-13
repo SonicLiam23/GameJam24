@@ -31,6 +31,6 @@ public class Buttons : MonoBehaviour
 
     public void ExitGame()
     {
-
+        Application.Quit();
     }
 }
